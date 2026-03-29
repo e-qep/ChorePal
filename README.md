@@ -88,9 +88,9 @@ ChorePal/
 
 ChorePal is developed by a small, dedicated team:
 
-- **Project Lead/Backend**: e-qep
-- **GUI Developer**: [Team Member]
-- **Contributors**: [Additional team members]
+- **Backend Developer**: Alex
+- **GUI Developer**: Luca
+- **Ideas and Management**: Mihai
 
 ### Contributing
 
